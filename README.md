@@ -1,1 +1,4 @@
-# ga_resources
+# Resources for GSA
+* comments
+* footprints
+* keywoards
