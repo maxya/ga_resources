@@ -1,0 +1,26 @@
+inurl:"pligg/upcoming.php"
+inurl:"register" intitle:"pligg"
+inurl:"cloud.php" intitle:"pligg"
+inurl:"live_comments" intitle:"pligg"
+inurl:"faq-en.php" intext:"pligg"
+inanchor:"Pligg beta 9 Home"
+inanchor:"About Pligg"
+inurl:"/pligg" inurl:/register.php
+inurl:register.php intext:"upcoming" intext:"published" intext:"submit"
+inurl:/register intext:"upcoming" intext:"published" intext:"submit" intext:"Tag Cloud" -inurl:.php
+inurl:/register intext:"upcoming" intext:"published" intext:"submit" -inurl:.php
+inurl:/register intext:"upcoming" intext:"published" intext:"submit" -inurl:.php intitle:"register"
+inurl:/register intext:"Powered by Pligg" -inurl:.php
+inurl:/register.php intext:"Powered by Pligg"
+"Powered by Pligg"
+intitle:"Pligg beta"
+"What Is Pligg?"
+intitle:"Pligg Beta 9"
+"http://www.pligg.com"
+inurl:register.php intext:"upcoming" intext:"published" intext:"submit"
+inurl:/register intext:"upcoming" intext:"published" intext:"submit" intext:"Tag Cloud" -inurl:.php
+inurl:/register intext:"upcoming" intext:"published" intext:"submit" -inurl:.php
+inurl:/register intext:"upcoming" intext:"published" intext:"submit" -inurl:.php intitle:"register"
+inurl:/register intext:"Powered by Pligg" -inurl:.php
+inurl:/register.php intext:"Powered by Pligg"
+

@@ -1,0 +1,33 @@
+http://catalog-familly.ru/#{Каталог фамилий|История фамилии|Происхождение фамилии|Гинеологическое дерево}
+http://catalog-familly.ru/category/stati
+http://catalog-familly.ru/sitemap#{Каталог фамилий|История фамилии|Происхождение фамилии|Гинеологическое дерево}
+http://catalog-familly.ru/category/familly
+http://catalog-familly.ru/category/familii
+http://catalog-familly.ru/a
+http://catalog-familly.ru/b
+http://catalog-familly.ru/v
+http://catalog-familly.ru/g
+http://catalog-familly.ru/d
+http://catalog-familly.ru/e
+http://catalog-familly.ru/zh
+http://catalog-familly.ru/z
+http://catalog-familly.ru/i
+http://catalog-familly.ru/k
+http://catalog-familly.ru/l
+http://catalog-familly.ru/m
+http://catalog-familly.ru/n
+http://catalog-familly.ru/o
+http://catalog-familly.ru/p
+http://catalog-familly.ru/r
+http://catalog-familly.ru/s
+http://catalog-familly.ru/t
+http://catalog-familly.ru/u
+http://catalog-familly.ru/f
+http://catalog-familly.ru/x
+http://catalog-familly.ru/c
+http://catalog-familly.ru/ch
+http://catalog-familly.ru/sh
+http://catalog-familly.ru/shh
+http://catalog-familly.ru/e-2
+http://catalog-familly.ru/yu
+http://catalog-familly.ru/ya
